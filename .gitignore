@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local files
+.DS_Store
+.temp/
+
+# Generated LaTeX files
+docs/*.aux
+docs/*.fdb_latexmk
+docs/*.fls
+docs/*.lof
+docs/*.log
+docs/*.lot
+docs/*.out
+docs/*.pdf
+docs/*.synctex.gz
+docs/*.toc
